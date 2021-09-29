@@ -1,1 +1,1 @@
-# passwall_auto_add_node
+# passwall节点订阅后自动将节点添加至自动切换列表
